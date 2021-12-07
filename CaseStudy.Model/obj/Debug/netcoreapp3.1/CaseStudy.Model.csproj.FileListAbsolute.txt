@@ -1,0 +1,9 @@
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.csproj.AssemblyReference.cache
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.AssemblyInfoInputs.cache
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.AssemblyInfo.cs
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.csproj.CoreCompileInputs.cache
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\bin\Debug\netcoreapp3.1\CaseStudy.Model.deps.json
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\bin\Debug\netcoreapp3.1\CaseStudy.Model.dll
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\bin\Debug\netcoreapp3.1\CaseStudy.Model.pdb
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.dll
+C:\Users\GizemOmer\source\repos\CaseStudy\CaseStudy.Model\obj\Debug\netcoreapp3.1\CaseStudy.Model.pdb
